@@ -19,7 +19,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 // Import local assets
 import svgPaths from './imports/svg-u06yhaelxj';
 import brainSvg from './assets/brain.svg';
-import dmaLogo from './assets/DMA-Logo.svg';
+import dmaLogo from './assets/DMA-logo.svg';
 
 // Assets from src/assets (using hashed names from Figma export)
 import imgFeatured1 from './assets/featured-1.png';

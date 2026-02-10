@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom';
 import './knowledge.css';
 import './LandingPage.css';
 
-import dmaLogo from './assets/DMA-Logo.svg';
+import dmaLogo from './assets/DMA-logo.svg';
 import twitter from './assets/logo-twitter.svg';
 import facebook from './assets/logo-facebook.svg';
 import instagram from './assets/logo-instagram.svg';
